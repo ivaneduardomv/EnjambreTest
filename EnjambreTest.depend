@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532109180 source:d:\codeblocksprojects\enjambretest\main.c
+	<stdio.h>
+	<stdlib.h>
+
